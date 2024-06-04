@@ -34,9 +34,9 @@ Note : No copying (even partial) of this code within the scope of the INFO0012 c
     - Click the `USAM to logisim ROM image` button in the top menu to generate the machine code.
 2. Load your program in the instruction memory
     - Run `java -jar ./circuit/logisim-generic-2.7.1.jar ./circuit/cpu.circ`.
-    - Double click on the Instruction memory.
+    - Double click on the Instruction memory.<br>
     ![Click instruction memory view](misc/instruction_memory.png)
-    - Right click on the ROM > Load image > select your .logisim_content file.
+    - Right click on the ROM > Load image > select your .logisim_content file.<br>
     ![Load instruction memory image](misc/instruction_memory_load.png)
     - Run the simulation, in the top menu click on `Simulate`, reset the simulation, enable the simulation and chose a clock frequency from the menu.
     - Check the result in the Regiler File / Data memory
