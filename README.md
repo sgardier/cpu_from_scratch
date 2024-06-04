@@ -39,7 +39,7 @@ Note : No copying (even partial) of this code within the scope of the INFO0012 c
     - Right click on the ROM > Load image > select your .logisim_content file.<br>
     ![Load instruction memory image](misc/instruction_memory_load.png)
     - Run the simulation, in the top menu click on `Simulate`, reset the simulation, enable the simulation and chose a clock frequency from the menu.
-    - Check the result in the Regiler File / Data memory
+    - Check the result in the Regiler File / Data memory.
 
 
 ## Improvements
